@@ -1,0 +1,15 @@
+{
+  "name": "genpark-simplicial-complex-boundary-operator-skill",
+  "version": "1.0.0",
+  "description": "Algebraic topology simplicial complex engine computing chain groups and boundary matrix operators verifying d^2 = 0.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "algebraic-topology",
+    "simplicial-complex",
+    "boundary-operator",
+    "homology"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
